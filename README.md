@@ -1,0 +1,2 @@
+# litentry-api
+GraphQL server
