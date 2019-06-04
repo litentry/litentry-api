@@ -1,0 +1,21 @@
+{
+  "name": "litentryhardware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.4.8",
+    "esm": "^3.2.22",
+    "graphql": "^14.1.1",
+    "graphql-resolvers": "^0.3.2",
+    "lodash": "^4.17.11",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
