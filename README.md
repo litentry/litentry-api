@@ -15,3 +15,11 @@ It mainly includes:
 * Javascript binding library: The javascript binding library will directly connect the front-end applications with Blockchain, for example, React or React Native applications.
 
 **This repository is now focused on the GraphQL server.**
+
+
+### Use Docker
+
+```
+docker pull juniuszhou/litentry-api:latest
+docker run juniuszhou/litentry-api
+```
